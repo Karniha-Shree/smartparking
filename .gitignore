@@ -1,0 +1,18 @@
+# Spring Boot / Java
+smart-parking-backend/target/
+*.class
+
+# VS Code
+.vscode/
+
+# Frontend
+smart-parking-frontend/node_modules/
+smart-parking-frontend/dist/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
